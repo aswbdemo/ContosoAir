@@ -1,6 +1,6 @@
    pool:
      name: default
-     vmImage: 'ubuntu-latest'
+     vmImage: 'ubuntu-18.04'
    trigger:
      - master
    steps:
